@@ -1,0 +1,14 @@
+Feb 03, 2023 10:46:04 AM calculate main
+INFO: Начало логирования
+Feb 03, 2023 10:46:08 AM calculate main
+INFO: Введено Первое число: 1
+Feb 03, 2023 10:46:09 AM calculate main
+INFO: Введено Второе число: 2
+Feb 03, 2023 10:46:11 AM calculate main
+INFO: Введено Действие: +
+Feb 03, 2023 10:46:18 AM calculate main
+INFO: Введено Второе число: 3
+Feb 03, 2023 10:46:20 AM calculate main
+INFO: Введено Действие: +
+Feb 03, 2023 10:46:28 AM calculate main
+INFO: Введено для выхода/продолжения: n
